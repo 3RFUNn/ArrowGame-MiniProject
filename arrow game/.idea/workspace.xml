@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CMakeRunConfigurationManager" shouldGenerate="true" shouldDeleteObsolete="true">
+    <generated>
+      <config projectName="arrow_game" targetName="arrow_game" />
+    </generated>
+  </component>
+  <component name="CMakeSettings">
+    <configurations>
+      <configuration PROFILE_NAME="Debug" CONFIG_NAME="Debug" />
+    </configurations>
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="39de06b4-c798-4fb4-acaa-9625e81294d3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ClangdSettings">
+    <option name="formatViaClangd" value="false" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="CMakeBuildProfile:Debug" />
+  <component name="ProjectId" id="1Vh0DkXmU7QGqjnsdfpBYPpzttw" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="CPPToolchains" />
+  </component>
+  <component name="RunManager">
+    <configuration name="arrow_game" type="CMakeRunConfiguration" factoryName="Application" PASS_PARENT_ENVS_2="true" PROJECT_NAME="arrow_game" TARGET_NAME="arrow_game" CONFIG_NAME="Debug" RUN_TARGET_PROJECT_NAME="arrow_game" RUN_TARGET_NAME="arrow_game">
+      <method v="2">
+        <option name="com.jetbrains.cidr.execution.CidrBuildBeforeRunTaskProvider$BuildBeforeRunTask" enabled="true" />
+      </method>
+    </configuration>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="39de06b4-c798-4fb4-acaa-9625e81294d3" name="Default Changelist" comment="" />
+      <created>1577689901860</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577689901860</updated>
+      <workItem from="1577689903459" duration="11000" />
+      <workItem from="1577692170207" duration="7000" />
+      <workItem from="1577692214686" duration="589000" />
+      <workItem from="1577692883946" duration="37000" />
+      <workItem from="1577708149449" duration="18000" />
+      <workItem from="1578075405399" duration="3379000" />
+      <workItem from="1578216822384" duration="798000" />
+      <workItem from="1578217644386" duration="10260000" />
+      <workItem from="1578253034692" duration="9533000" />
+      <workItem from="1578371159929" duration="18063000" />
+      <workItem from="1578393445637" duration="13521000" />
+      <workItem from="1578424621070" duration="259000" />
+      <workItem from="1578429277594" duration="757000" />
+      <workItem from="1578481492905" duration="16013000" />
+      <workItem from="1578549309737" duration="53000" />
+      <workItem from="1578549581993" duration="6072000" />
+      <workItem from="1578567236165" duration="5775000" />
+      <workItem from="1578583400445" duration="15000" />
+      <workItem from="1578587765766" duration="2056000" />
+      <workItem from="1578604157496" duration="17624000" />
+      <workItem from="1578646538654" duration="237000" />
+      <workItem from="1578674240809" duration="4870000" />
+      <workItem from="1579174183351" duration="114000" />
+      <workItem from="1579665691060" duration="45000" />
+      <workItem from="1579863078997" duration="13000" />
+      <workItem from="1579863124735" duration="4000" />
+      <workItem from="1579863871752" duration="90000" />
+      <workItem from="1579864646436" duration="62000" />
+      <workItem from="1579864716927" duration="209000" />
+      <workItem from="1579864966453" duration="719000" />
+      <workItem from="1579865779415" duration="21000" />
+      <workItem from="1579865820150" duration="2000" />
+      <workItem from="1579866241841" duration="41000" />
+      <workItem from="1579874770731" duration="41000" />
+      <workItem from="1579884093537" duration="9000" />
+      <workItem from="1579885340980" duration="118000" />
+      <workItem from="1579926311964" duration="90000" />
+      <workItem from="1579926487104" duration="10000" />
+      <workItem from="1580064655357" duration="53000" />
+      <workItem from="1580124051384" duration="97000" />
+      <workItem from="1580144756087" duration="6000" />
+      <workItem from="1580150073499" duration="65000" />
+      <workItem from="1580150293930" duration="90000" />
+      <workItem from="1580150387782" duration="10000" />
+      <workItem from="1580150431878" duration="9000" />
+      <workItem from="1580163221008" duration="137000" />
+      <workItem from="1580164259812" duration="40000" />
+      <workItem from="1580169771797" duration="642000" />
+      <workItem from="1580171345960" duration="14000" />
+      <workItem from="1580173687081" duration="16000" />
+      <workItem from="1580173742861" duration="10000" />
+      <workItem from="1580174012266" duration="105000" />
+      <workItem from="1580174141798" duration="12000" />
+      <workItem from="1580174501466" duration="16000" />
+      <workItem from="1580326587929" duration="37000" />
+      <workItem from="1580910332888" duration="11000" />
+      <workItem from="1588254270929" duration="40000" />
+      <workItem from="1599391024916" duration="167000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1493" height="190" key="GridCell.Tab.0.bottom" timestamp="1599391191948">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="190" key="GridCell.Tab.0.bottom/0.0.1536.824@0.0.1536.824" timestamp="1599391191948" />
+    <state width="1493" height="190" key="GridCell.Tab.0.center" timestamp="1599391191948">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="190" key="GridCell.Tab.0.center/0.0.1536.824@0.0.1536.824" timestamp="1599391191948" />
+    <state width="1493" height="190" key="GridCell.Tab.0.left" timestamp="1599391191948">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="190" key="GridCell.Tab.0.left/0.0.1536.824@0.0.1536.824" timestamp="1599391191948" />
+    <state width="1493" height="190" key="GridCell.Tab.0.right" timestamp="1599391191948">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state width="1493" height="190" key="GridCell.Tab.0.right/0.0.1536.824@0.0.1536.824" timestamp="1599391191948" />
+  </component>
+</project>

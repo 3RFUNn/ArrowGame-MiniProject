@@ -1,0 +1,3 @@
+C:/Users/Asus/CLionProjects/arrow game/cmake-build-debug/CMakeFiles/arrow_game.dir
+C:/Users/Asus/CLionProjects/arrow game/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Asus/CLionProjects/arrow game/cmake-build-debug/CMakeFiles/rebuild_cache.dir
